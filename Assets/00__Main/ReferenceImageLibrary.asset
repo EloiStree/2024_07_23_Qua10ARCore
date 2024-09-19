@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4681297136522982955
+  m_GuidHigh: 14807178334175081632
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4687384921860901503
+      m_GuidHigh: 15994003009515219382
+    m_SerializedTextureGuid:
+      m_GuidLow: 16299746917469960139
+      m_GuidHigh: 87930896051135547
+    m_Size: {x: 10, y: 5.625}
+    m_SpecifySize: 1
+    m_Name: BackGround
+    m_Texture: {fileID: 2800000, guid: 3090b7cb5576e2343be4e81faf643801, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5585076971203261268
+      m_GuidHigh: 1517831620795312808
+    m_SerializedTextureGuid:
+      m_GuidLow: 1996273017107745775
+      m_GuidHigh: 16027954433910332200
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Edward
+    m_Texture: {fileID: 2800000, guid: 7b678bef2fbb1bb4285b5f4da3bb6ede, type: 3}
