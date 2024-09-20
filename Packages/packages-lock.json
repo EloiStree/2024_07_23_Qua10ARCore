@@ -1,5 +1,131 @@
 {
   "dependencies": {
+    "be.elab.3dbenchy": {
+      "version": "https://github.com/EloiStree/2024_09_14_3DBenchy.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ff5d0ead78aa7edcd807c522be7845522662ad70"
+    },
+    "be.elab.bedroomfromsketchfab": {
+      "version": "https://github.com/EloiStree/2024_08_16_BedroomFromSketchab.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "dd1767222f422d55ba9ba1485faad7dd6f80981f"
+    },
+    "be.elab.besttiming": {
+      "version": "https://github.com/EloiStree/2024_09_06_BestTimingScore.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4480cdf40f1632b78773192a333f2bd30c34afb2"
+    },
+    "be.elab.boattoy": {
+      "version": "https://github.com/EloiStree/2023_09_15_KidToyBoatModeCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ac6da4f597375568925f2ba775de75dc1f7785b1"
+    },
+    "be.elab.developernote": {
+      "version": "https://github.com/EloiStree/2024_08_09_DeveloperNote.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0952952a1f64bb6e27c257b8ffe842464d021233"
+    },
+    "be.elab.dualscreenstick": {
+      "version": "https://github.com/EloiStree/2023_01_28_ScreenDualJoystick.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8c0b0029e64cb9d9646d0499e3fb9eac97ba9d1f"
+    },
+    "be.elab.flyingisland": {
+      "version": "https://github.com/EloiStree/2024_09_10_FlyingIsland.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4fdea6c0c79179f3e96c1b6195f22663c4ce235b"
+    },
+    "be.elab.hellocopter": {
+      "version": "https://github.com/EloiStree/2024_09_10_HelicopterMove.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "3f95c398eb3d730d499c936940c588f6905576ca"
+    },
+    "be.elab.irctoy": {
+      "version": "https://github.com/EloiStree/2023_09_15_IToyControllerRC.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "cd935aa8b2d6045894c76493701cf90b6f44cbba"
+    },
+    "be.elab.quickfollowit": {
+      "version": "https://github.com/EloiStree/2024_09_16_QuickFollowIt.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "66b886ba8c0c9132067b52ed25ae6efcd8534619"
+    },
+    "be.elab.quickgitutility": {
+      "version": "https://github.com/EloiStree/2019_07_21_QuickGitUtility.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "b0482e9046b0e57215433b2ef2372394c6a56866"
+    },
+    "be.elab.renderscreenxr": {
+      "version": "https://github.com/EloiStree/2024_09_17_DroneRenderScreenXR.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a4887e4af1aa6fd201b0e47b606392f50adf343e"
+    },
+    "be.elab.skyriding": {
+      "version": "https://github.com/EloiStree/2024_09_03_SkyRidingPath.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "14596e89d811f64c31f12b47f795e54daa016ade"
+    },
+    "be.elab.startpackboatoy": {
+      "version": "https://github.com/EloiStree/2023_09_16_StartPackBoatToy.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ddf4d5aa8ae5fadab1921272ccb94d015c8c775b"
+    },
+    "be.elab.tellotoy": {
+      "version": "https://github.com/EloiStree/2023_02_19_KidToyDroneTelloModeCode.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "93e1bb9edf021357a7a7e2f5f956df96f7406f76"
+    },
+    "be.elab.unitypackagefacilitator": {
+      "version": "https://github.com/EloiStree/2019_07_21_UnityPackageFacilitator.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1690db24ce2c31b4ea23c2fc3c92a35ff11f438b"
+    },
+    "be.elab.watchexecutetime": {
+      "version": "https://github.com/EloiStree/2024_04_18_WatchExecuteTime.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "a23d437b52930721f305f452169f1ae2cda1d6c3"
+    },
+    "be.elab.zcharleroiz": {
+      "version": "https://github.com/EloiStree/2024_07_30_ZCharleroiZ.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1376c3a3ea20088efbb93f660183ccb62b3c1835"
+    },
     "com.unity.burst": {
       "version": "1.8.15",
       "depth": 1,
@@ -82,6 +208,17 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.probuilder": {
+      "version": "5.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.imgui": "1.0.0",
+        "com.unity.modules.physics": "1.0.0",
+        "com.unity.settings-manager": "1.0.3"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.render-pipelines.core": {
       "version": "14.0.11",
       "depth": 1,
@@ -161,9 +298,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.director": "1.0.0",
         "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0"
       },
       "url": "https://packages.unity.com"
@@ -192,9 +329,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.xr.arfoundation": "5.1.4",
         "com.unity.xr.core-utils": "2.1.0",
         "com.unity.xr.management": "4.0.1",
+        "com.unity.xr.arfoundation": "5.1.4",
         "com.unity.modules.androidjni": "1.0.0",
         "com.unity.modules.unitywebrequest": "1.0.0"
       },
@@ -205,14 +342,14 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.editorcoroutines": "1.0.0",
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.ui": "1.0.0",
         "com.unity.inputsystem": "1.3.0",
+        "com.unity.mathematics": "1.2.5",
         "com.unity.xr.core-utils": "2.2.1",
         "com.unity.xr.management": "4.0.1",
-        "com.unity.ugui": "1.0.0",
-        "com.unity.mathematics": "1.2.5",
+        "com.unity.editorcoroutines": "1.0.0",
         "com.unity.modules.particlesystem": "1.0.0",
-        "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.unityanalytics": "1.0.0",
         "com.unity.modules.unitywebrequest": "1.0.0"
       },
@@ -223,10 +360,10 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.xr.arfoundation": "5.1.4",
         "com.unity.xr.core-utils": "2.1.0",
-        "com.unity.xr.management": "4.0.1"
+        "com.unity.xr.management": "4.0.1",
+        "com.unity.xr.arfoundation": "5.1.4",
+        "com.unity.editorcoroutines": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -244,14 +381,14 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
+        "com.unity.ugui": "1.0.0",
+        "com.unity.modules.xr": "1.0.0",
         "com.unity.inputsystem": "1.8.1",
         "com.unity.mathematics": "1.2.6",
-        "com.unity.ugui": "1.0.0",
-        "com.unity.xr.core-utils": "2.2.3",
         "com.unity.modules.audio": "1.0.0",
         "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.physics": "1.0.0",
-        "com.unity.modules.xr": "1.0.0"
+        "com.unity.xr.core-utils": "2.2.3",
+        "com.unity.modules.physics": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },
@@ -270,9 +407,9 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.modules.subsystems": "1.0.0",
         "com.unity.modules.vr": "1.0.0",
         "com.unity.modules.xr": "1.0.0",
+        "com.unity.modules.subsystems": "1.0.0",
         "com.unity.xr.legacyinputhelpers": "2.1.7"
       },
       "url": "https://packages.unity.com"
